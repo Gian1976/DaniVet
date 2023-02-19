@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/danivet/static/css/main.3d12852c.css",
+    "main.js": "/danivet/static/js/main.3f8b6a00.js",
+    "static/js/787.d8c21dcf.chunk.js": "/danivet/static/js/787.d8c21dcf.chunk.js",
+    "static/media/logo-pata4.jpg": "/danivet/static/media/logo-pata4.13a9b72c7c6569ab85f9.jpg",
+    "index.html": "/danivet/index.html",
+    "main.3d12852c.css.map": "/danivet/static/css/main.3d12852c.css.map",
+    "main.3f8b6a00.js.map": "/danivet/static/js/main.3f8b6a00.js.map",
+    "787.d8c21dcf.chunk.js.map": "/danivet/static/js/787.d8c21dcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d12852c.css",
+    "static/js/main.3f8b6a00.js"
+  ]
+}

@@ -1,0 +1,40 @@
+.navbar {
+    display:flex;
+    justify-content:space-between;
+    background-color: rgb(7, 0, 0);
+    align-items: center;
+    width: 100%;
+   
+}
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+   
+}
+.item {
+    margin-right: 2em;
+}
+.item a {
+    color:#ffbb33;
+    text-decoration: none;
+}
+.item a:hover {
+    color:#ffbb33;
+}
+h2 {
+    color:#ffbb33;
+    font-size: 60px;
+
+  }
+  h3 {
+    color:#ffbb33;
+    font-size: 30px;
+
+  }
+  img {
+    display: flex;
+    border-image-source: none;
+  }
+  
+ 

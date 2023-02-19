@@ -1,0 +1,15 @@
+h1 {
+  padding: 0;
+  color: #060606;
+  margin: 0;
+  box-sizing: border-box
+}
+
+html,
+body,
+#root {
+  background-color: #d6d6e3;
+  height: 100%;
+}
+
+  
